@@ -1,0 +1,1 @@
+Add your actual certificate files here. The HTML currently links to SmartEd-AI-Training-Certificate.pdf, Innovatus-Training-Certificate.pdf, and Additional-Certificate.pdf. Rename files to match or update the links in index.html. You can use PDF or image files; PDF links open in a new browser tab.
